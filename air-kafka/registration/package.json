@@ -1,0 +1,19 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "registration": "node  index.js"
+  },
+  "keywords": [],
+  "author": "Rimsan",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "express": "^4.18.2",
+    "kafkajs": "^2.2.4",
+    "pino": "^8.16.0"
+  }
+}
